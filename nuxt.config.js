@@ -8,7 +8,7 @@ module.exports = {
       // 清除 nuxt 默认生成的路由表规则
       routes.splice(0)
       routes.push(...[
-        {
+        {  
           path: '/',
           component: resolve(__dirname, 'pages/layout/'),
           children: [
