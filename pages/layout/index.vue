@@ -43,7 +43,7 @@
     <!-- 底部 -->
     <footer>
       <div class="container">
-        <a href="/" class="logo-font">潘更个别</a>
+        <a href="/" class="logo-font">潘更个asdsdasdasdasdasd别</a>
         <span class="attribution">
           An interactive learning project from
           <a href="https://thinkster.io">Thinkster</a>. Code &amp; design
